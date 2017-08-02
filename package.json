@@ -1,0 +1,34 @@
+{
+  "name": "mean_app",
+  "version": "1.0.0",
+  "description": "mean app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ridoansaleh/MEAN_App.git"
+  },
+  "keywords": [
+    "mean",
+    "stack",
+    "crud",
+    "operations"
+  ],
+  "author": "ridoansalehnasution",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ridoansaleh/MEAN_App/issues"
+  },
+  "homepage": "https://github.com/ridoansaleh/MEAN_App#readme",
+  "dependencies": {
+    "@uirouter/angularjs": "^1.0.5",
+    "angular": "^1.6.5",
+    "body-parser": "^1.17.2",
+    "bootstrap": "^3.3.7",
+    "express": "^4.15.3",
+    "mongoose": "^4.11.4"
+  }
+}
